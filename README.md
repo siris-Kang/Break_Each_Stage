@@ -20,5 +20,5 @@ file_stop = open(
   
 (###) to your computer path  
 
-[Description](https://blog.naver.com/kke3436/222902723812)
+[Code Description](https://blog.naver.com/kke3436/222902723812)  
 in Korean
