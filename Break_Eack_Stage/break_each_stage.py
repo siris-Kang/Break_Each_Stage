@@ -164,14 +164,14 @@ nextFont = pygame.font.SysFont(None, 24)
 # R, G, B
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
-BLUE = (0, 0, 255)
-GREEN = (0, 255, 0)
-RED = (255, 0, 0)
-YELLOW = (255, 255, 0)
-GRAY = (100,100,100)
-SKYBLUE1 = (80, 170, 180)
-SKYBLUE2 = (212, 244, 250)
-PINK1 = (243, 97, 212)
+BLUE = (3, 155, 229)
+GREEN = (124, 176, 66)
+RED = (229, 57, 53)
+YELLOW = (253, 216, 53)
+GRAY = (100, 100, 100)
+SKYBLUE1 = (100, 181, 246)
+SKYBLUE2 = (232, 234, 246)
+PINK1 = (240, 98, 146)
 
 # set image
 storyimg1 = pygame.image.load("first_image.jpg")
@@ -197,7 +197,7 @@ main_block_direction = 'right'
 gamecomplete = False
 gameover = False
 
-flag = 1
+flag = 5
 start = 'go'
 game_go  = 0
 
