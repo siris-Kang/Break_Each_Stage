@@ -1,7 +1,7 @@
 # Break_Each_Stage  
 2019 TermProject  
   
-_ A game created using pygame _
+**A game created using pygame**  
   
 If you want to play,  
 execute 'break_each_stage.py' file  
