@@ -197,7 +197,7 @@ main_block_direction = 'right'
 gamecomplete = False
 gameover = False
 
-flag = 5
+flag = 1
 start = 'go'
 game_go  = 0
 
